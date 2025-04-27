@@ -9,7 +9,7 @@
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "resolutions": {
-    "path-to-regexp": "6.2.1"
+    "path-to-regexp": "^6.2.1"
   },
   "keywords": [],
   "author": "",
