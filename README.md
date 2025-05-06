@@ -1,5 +1,5 @@
 Projeto full-stack usando : 
-HTML, CSS, JavaScript, React, MongoDB
+HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB
 
 consumo de api e conexão banco de dados, requisições HTTP e tratamento de erros, sistema de pagamento funcionando, dashboard para controle de produtos
 
