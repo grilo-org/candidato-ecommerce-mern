@@ -35,6 +35,7 @@ Pagamentos: Integração com Stripe
 ✅ Responsivo (funciona em mobile e desktop)
 
 👨‍💻 Autor
+
 Carlos - @CarlosZeyy
 
 LinkedIn: [Carlos Moises](https://www.linkedin.com/in/carlos-moises-211205203/)
