@@ -37,7 +37,7 @@ Pagamentos: Integração com Stripe
 👨‍💻 Autor
 Carlos - @CarlosZeyy
 
-LinkedIn: [[Carlos Moises](https://www.linkedin.com/in/carlos-moises-211205203/)]
+LinkedIn: [Carlos Moises(https://www.linkedin.com/in/carlos-moises-211205203/)]
 
 Email: [[Gmail](carloszeeyy@gmail.com)]
 
