@@ -33,3 +33,6 @@ Pagamentos: Integração com Stripe
 ✅ Painel administrativo (gerenciar produtos, pedidos e usuários)
 
 ✅ Responsivo (funciona em mobile e desktop)
+
+📄 Licença
+MIT © Carlos Moises
