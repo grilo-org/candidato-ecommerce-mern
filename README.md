@@ -39,7 +39,7 @@ Carlos - @CarlosZeyy
 
 LinkedIn: [[Carlos Moises](https://www.linkedin.com/in/carlos-moises-211205203/)]
 
-Email: [carloszeeyy@gmail.com]
+Email: [[Gmail](carloszeeyy@gmail.com)]
 
 📄 Licença
 MIT © Carlos Moises
