@@ -43,7 +43,7 @@ React Router DOM – Gerenciamento de rotas no frontend.
 
 Context API + Reducer – Gerenciamento de estado global.
 
-Bootstrap – Framework de estilização.
+TailwindCSS – Framework de estilização.
 
 React Hooks (useState, useEffect, useContext, etc.)
 
