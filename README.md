@@ -11,13 +11,50 @@ E-Commerce Demo
 
 🚀 Tecnologias
 
-Frontend: React, Tailwind, Axios
+📦 Backend:
+Node.js
 
-Backend: Node.js, Express.js, MongoDB (Mongoose)
+Express.js
 
-Autenticação: JWT (JSON Web Tokens)
+MongoDB
 
-Pagamentos: Integração com Stripe 
+Mongoose
+
+bcrypt
+
+jsonwebtoken (JWT)
+
+dotenv
+
+CORS
+
+APIs REST
+
+Multer – Para upload de imagens.
+
+Arquitetura MVC
+
+💻 Frontend:
+React.js – Biblioteca para construção de interfaces.
+
+Axios – Cliente HTTP para consumo da API.
+
+React Router DOM – Gerenciamento de rotas no frontend.
+
+Context API + Reducer – Gerenciamento de estado global.
+
+Bootstrap – Framework de estilização.
+
+React Hooks (useState, useEffect, useContext, etc.)
+
+🔄 Integração:
+Integração Full Stack (MERN) – MongoDB + Express + React + Node
+
+Autenticação completa – Login, registro, rotas protegidas.
+
+CRUD – Operações completas de criação, leitura, atualização e remoção de produtos e usuários.
+
+Dashboard Admin – Controle de produtos, pedidos e usuários com níveis de permissão.
 
 🌐 Deploy: https://ecommerce-mern-y3y7.onrender.com/
 
